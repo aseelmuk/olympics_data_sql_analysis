@@ -1,4 +1,12 @@
  # Olympics Medal Analysis
+
+ ## Table of Contents
+- [Project Overview](#project-overview)
+- [Exploratory Data analysis](#exploratory-data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Dataset Description](#dataset-description)
+- [SQL Queries](#sql-queries)
+- [Conclusion](#conclusion)
  
 ###  Project Overview
 This project focuses on uncovering key insights from historical Olympic Games data using SQL. By analyzing athlete performances, team achievements, and medal trends from both summer and winter Olympics, this analysis highlights standout players, landmark wins, and consistent excellence over the years.
@@ -12,6 +20,14 @@ The dataset includes:
 
 ### Data source
 The primary datasets used for this analysis is the "athletes.csv" and "athlete_events.csv" containing information about the 120 years of olympic history
+
+### Data Cleaning/Preperation
+
+In the initial data preparation phase,the following tasks were performed
+
+1. Data loading and inspection
+
+2. Data cleaning and formatting (name column in athlete table)
 
 ### Exploratory Data Analysis (EDA)
 Before diving into SQL queries, the dataset was explored to understand the structure and types of information present.
