@@ -2,7 +2,7 @@
 
  ## Table of Contents
 - [Project Overview](#project-overview)
-- [Exploratory Data analysis](#exploratory-data-analysis)
+- [Exploratory Data Analysis](#exploratory-data-Analysis)
 - [Results and Findings](#results-and-findings)
 - [Dataset Description](#dataset-description)
 - [SQL Queries](#sql-queries)
@@ -29,7 +29,7 @@ In the initial data preparation phase,the following tasks were performed
 
 2. Data cleaning and formatting (name column in athlete table)
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 Before diving into SQL queries, the dataset was explored to understand the structure and types of information present.
 
 Olympic Games span Summer and Winter events from the 1890s to 2016.
