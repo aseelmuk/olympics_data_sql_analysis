@@ -6,7 +6,7 @@
 - [Results and Findings](#results-and-findings)
 - [Dataset Description](#dataset-description)
 - [SQL Queries](#sql-queries)
-- [Conclusion](#conclusion)
+
  
 ###  Project Overview
 This project focuses on uncovering key insights from historical Olympic Games data using SQL. By analyzing athlete performances, team achievements, and medal trends from both summer and winter Olympics, this analysis highlights standout players, landmark wins, and consistent excellence over the years.
@@ -39,7 +39,7 @@ Medal types include Gold, Silver, and Bronze.
 Players can win multiple medals in the same year or across years.
 
 
-### Results & Findings
+### Results and Findings
 
 **Team with Maximum Gold Medals:**
 Identified the most successful team across all Olympic events in terms of gold medal wins.
