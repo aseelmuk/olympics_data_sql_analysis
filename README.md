@@ -41,6 +41,10 @@ Medal types include Gold, Silver, and Bronze.
 
 Players can win multiple medals in the same year or across years.
 
+### SQL Queries
+
+All SQL queries used in this project are available in [`queries.sql`](sql/marketing_analytics_queries.sql).
+
 
 ### Results and Findings
 
