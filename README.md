@@ -4,7 +4,7 @@
 - [Project Overview](#project-overview)
 - [Dataset Description](#dataset-description)
 - [Data Source](#data-source)
-  [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [SQL Queries](#sql-queries)
 - [Results and Findings](#results-and-findings)
