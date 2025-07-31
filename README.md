@@ -2,10 +2,13 @@
 
  ## Table of Contents
 - [Project Overview](#project-overview)
-- [Exploratory Data Analysis](#exploratory-data-Analysis)
-- [Results and Findings](#results-and-findings)
 - [Dataset Description](#dataset-description)
+- [Data Source](#data-source)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [SQL Queries](#sql-queries)
+- [Results and Findings](#results-and-findings)
+  
 
  
 ###  Project Overview
