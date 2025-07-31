@@ -14,6 +14,8 @@
 ###  Project Overview
 This project focuses on uncovering key insights from historical Olympic Games data using SQL. By analyzing athlete performances, team achievements, and medal trends from both summer and winter Olympics, this analysis highlights standout players, landmark wins, and consistent excellence over the years.
 
+### Dataset Description
+
 The dataset includes:
 
 **1-Athletes** table : It has information about all the players who have participated in the olympics
