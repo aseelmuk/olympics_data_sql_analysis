@@ -43,7 +43,7 @@ Players can win multiple medals in the same year or across years.
 
 ### SQL Queries
 
-All SQL queries used in this project are available in [`queries.sql`](sql/marketing_analytics_queries.sql).
+All SQL queries used in this project are available in [`queries.sql`](https://github.com/aseelmuk/olympics_data_sql_analysis/blob/main/queries.sql).
 
 
 ### Results and Findings
