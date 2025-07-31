@@ -4,7 +4,7 @@
 - [Project Overview](#project-overview)
 - [Dataset Description](#dataset-description)
 - [Data Source](#data-source)
-- [Data Cleaning & Preparation](#data-cleaning--preparation)
+  [Data Cleaning & Preparation](#data-cleaning--preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [SQL Queries](#sql-queries)
 - [Results and Findings](#results-and-findings)
@@ -24,7 +24,7 @@ The dataset includes:
 ### Data source
 The primary datasets used for this analysis is the "athletes.csv" and "athlete_events.csv" containing information about the 120 years of olympic history
 
-### Data Cleaning/Preperation
+### Data Cleaning & Preparation
 
 In the initial data preparation phase,the following tasks were performed
 
